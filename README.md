@@ -71,8 +71,8 @@ Descriptions:
 
 ---
 
-## 📫 Want to Learn More?
+## Want to Learn More?
 
-I'm happy to discuss the system architecture, edge vs. cloud design trade-offs, and implementation lessons.
+I'm happy to discuss the system architecture, edge vs. cloud design trade-offs, implementation and other details.
 
-📧 **Contact**: [your.email@domain.com](mailto:your.email@domain.com)
+📧 **Contact**: [nagarw48@asu.edu](mailto:nagarw48@asu.edu)
